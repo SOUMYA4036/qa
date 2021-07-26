@@ -1,1 +1,2 @@
 welcome to self managed devops.
+chenging it for poll scm.
